@@ -1,4 +1,4 @@
-# Funcionais: sptingboot_thymeleaf
+# Funcionais: sptingboot com thymeleaf
 CRUDs baseados no curso https://www.udemy.com/spring-boot-mvc-com-thymeleaf/ - Spring Boot & MVC com Thymeleaf
 Curso de Primeiros Passos no Desenvolvimento Web com Spring-Boot, MVC, JPA, Thymeleaf e Heroku.
 
@@ -31,6 +31,7 @@ Entretanto, caso já tenha alguma noção de Spring, o curso ainda assim poderá
 Assim sendo, vamos desenvolver uma aplicação web utilizando o Spring-Boot, com Spring MVC, JPA, Thymeleaf e Bootstrap 4. Além disso, veremos como incluir validação back-end baseada em Hibernate Valitador e Bean Validation integrados ao Spring MVC. Você também vai aprender a criar validação personalizada com o Spring Validator. E na camada de persistência usaremos o padrão Data Access Object junto a JPA. Por fim, vamos publicar a aplicação desenvolvida no curso na nuvem Heroku.
 
 Para quem é este curso:
-.Estudantes de cursos de computação e desenvolvimento de software em geral
-.Profissionais que queiram adquirir conhecimento no desenvolvimento web com as ferramentas apresentadas no curso
-.Entusiastas e empreendedores que desejam criar aplicativos e sistemas web
+
+	.Estudantes de cursos de computação e desenvolvimento de software em geral
+	.Profissionais que queiram adquirir conhecimento no desenvolvimento web com as ferramentas apresentadas no curso
+	.Entusiastas e empreendedores que desejam criar aplicativos e sistemas web

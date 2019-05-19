@@ -2,23 +2,24 @@
 CRUDs baseados no curso https://www.udemy.com/spring-boot-mvc-com-thymeleaf/ - Spring Boot & MVC com Thymeleaf
 Curso de Primeiros Passos no Desenvolvimento Web com Spring-Boot, MVC, JPA, Thymeleaf e Heroku.
 
-.Configurar aplicação baseada no Spring-Boot
-.Desenvolver aplicações web com o Spring MVC
-.Mapeamento objeto-relacional com JPA
-.Implementar a camada de persistência com o padrão DAO
-.Validação de formulários no lado servidor com Bean Validation
-.Trabalhar com views baseadas no template Thymeleaf
-.Usar recursos estáticos (CSS e JS) via WebJars
-.Enviar e realizar o Deploy da aplicação na nuvem Heroku
-.Estará apto à cursos com foco intermediário ou avançado no desenvolvimento com Spring
+	.Configurar aplicação baseada no Spring-Boot
+	.Desenvolver aplicações web com o Spring MVC
+	.Mapeamento objeto-relacional com JPA
+	.Implementar a camada de persistência com o padrão DAO
+	.Validação de formulários no lado servidor com Bean Validation
+	.Trabalhar com views baseadas no template Thymeleaf
+	.Usar recursos estáticos (CSS e JS) via WebJars
+	.Enviar e realizar o Deploy da aplicação na nuvem Heroku
+	.Estará apto à cursos com foco intermediário ou avançado no desenvolvimento com Spring
 
 Requisitos
-.Computador Mac, Linux ou Windows
-.Conhecimento dos fundamentos da linguagem Java
-.Conhecimento em orientação a objetos.
-.Conhecimento básico em persistência com Hibernate ou JPA.
-.Conhecimento básico de HTML, CSS e JS.
-.Conhecimento básico em desenvolvimento Java Web com Servlets.
+
+	.Computador Mac, Linux ou Windows
+	.Conhecimento dos fundamentos da linguagem Java
+	.Conhecimento em orientação a objetos.
+	.Conhecimento básico em persistência com Hibernate ou JPA.
+	.Conhecimento básico de HTML, CSS e JS.
+	.Conhecimento básico em desenvolvimento Java Web com Servlets.
 
 Descrição
 Neste curso você vai dar seus primeiros passos no desenvolvimento web com o Spring-Boot, um projeto da  Pivotal que reúne em forma de micro serviços as funcionalidades da família do Spring Framework. 
